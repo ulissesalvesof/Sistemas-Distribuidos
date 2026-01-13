@@ -1,0 +1,16 @@
+{
+  "name": "cliente-telefonia-nodejs",
+  "version": "1.0.0",
+  "description": "Cliente Node.js para API REST do Sistema de Telefonia - Trabalho 3",
+  "main": "cliente.js",
+  "scripts": {
+    "start": "node cliente.js",
+    "install-deps": "npm install axios"
+  },
+  "keywords": ["rest", "api", "client", "telefonia"],
+  "author": "Sistemas Distribuídos",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
